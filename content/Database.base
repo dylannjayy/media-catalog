@@ -1,0 +1,22 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - "!year.isEmpty()"
+    order:
+      - file.name
+      - spine
+      - type
+      - year
+      - imdb_rating
+      - genre
+      - director
+      - cast
+    sort:
+      - property: file.name
+        direction: DESC
+    columnSize:
+      file.name: 141
+      note.spine: 79
+      note.year: 90

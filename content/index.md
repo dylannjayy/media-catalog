@@ -1,2 +1,2 @@
 # Media Catalog
-Welcome to my catalog!
+Welcome to our digitized media catalog!
