@@ -167,7 +167,7 @@ plugins:
     layout:
       position: right
       priority: 10
- - source: "@quartz-community/search"
+  - source: "@quartz-community/search"
     enabled: true
     options:
       enablePreview: true
