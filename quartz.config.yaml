@@ -167,8 +167,10 @@ plugins:
     layout:
       position: right
       priority: 10
-  - source: "@quartz-community/search"
+ - source: "@quartz-community/search"
     enabled: true
+    options:
+      searchFrontmatter: true
     layout:
       position: left
       priority: 20
