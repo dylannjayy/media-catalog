@@ -170,7 +170,19 @@ plugins:
  - source: "@quartz-community/search"
     enabled: true
     options:
-      searchFrontmatter: true
+      enablePreview: true
+      includeFrontmatter: true
+      searchFields:
+        - title
+        - spine
+        - year
+        - director
+        - imdb_rating
+        - genre
+        - runtime
+        - cast
+        - content
+        - tags
     layout:
       position: left
       priority: 20
