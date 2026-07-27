@@ -15,4 +15,3 @@ cast: [Blake Lively, Michiel Huisman, Harrison Ford, Ellen Burstyn]
 A young woman, born at the turn of the 20th century, ceases aging after recovering from a near-fatal accident. After many solitary years, she meets a man who complicates the eternal life she has settled into.
 
 ---
-**Catalog Search Data:** Spine 00001 | Director: Lee Toland Krieger | Year: 2015 | IMDB:7.0 | Genre: Romance, Drama, Fantasy | Runtime: 113 min | Cast: Blake Lively, Michiel Huisman, Harrison Ford, Ellen Burstyn
